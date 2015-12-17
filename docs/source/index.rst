@@ -13,7 +13,7 @@ Contents:
 
    AboutUS/index
    FAQ/index
-   Knowledge_Base/index
+   Knowledge_Area/index
 
 
 Indices and tables
