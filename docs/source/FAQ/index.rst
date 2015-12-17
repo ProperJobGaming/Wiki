@@ -114,7 +114,7 @@ Griefing is not allowed, be it protected or not. Taking the belongings of anothe
 Can I get a refund for my [Item]?
 ---------------------------------
 
-Please check out our `Refund Policy <https://ProperJobGaming.net/forum/threads/refunds-on-lost-items.2722/>`_
+Please check out our `Refund Policy <https://ProperJobGaming.net/forums/>`_
 
 
 Where can I see the banned items?
@@ -147,7 +147,7 @@ All our staff is working voluntarily without a benefit. No payment, no special p
 Are you guys (staff) playing legit, or use creative for own sake?
 -----------------------------------------------------------------
 
-Even instant teleportation is not allowed to be used for personal gain. All the extra permissions coming with the staff rank are only allowed for staff work, not for personal. We enforce this strict, if you are seeing someone not playing legit `please report <https://ProperJobGaming.net/forum/forums/complaints-against-players-and-staff.186/>`_.
+Even instant teleportation is not allowed to be used for personal gain. All the extra permissions coming with the staff rank are only allowed for staff work, not for personal. We enforce this strict, if you are seeing someone not playing legit `please report <https://www.properjobgaming.com/forums/forums/staff-and-player-complaints.23/>`_.
 
 
 Can i transfer claim blocks to a friend?
