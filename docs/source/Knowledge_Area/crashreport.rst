@@ -5,16 +5,6 @@ Crash-Report Guide
 If your game crashes and you want to get it solved we require the crash report which get automatically created.
 
 
-MyM Launcher
-============
-
-1. Open the Launcher
-2. Right click on the modpack and click ``View folder``.
-3. Open the ``crash-reports`` folder.
-4. Paste the content of the latest crash-report on `Pastebin <http://pastebin.com>`_.
-5. Click on the ``Submit`` button and copy the web link.
-6. Paste the link in the forum thread/webchat/ticket.
-
 
 FTB Launcher
 ============

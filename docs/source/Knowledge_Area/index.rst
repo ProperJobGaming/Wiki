@@ -1,5 +1,5 @@
 +++++++++++++
-KnowledgeBase
+KnowledgeArea
 +++++++++++++
 
 .. toctree::
