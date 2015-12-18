@@ -116,7 +116,7 @@ html_theme = 'default'
 #html_title = ProperJobGaming Wiki
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = Wiki
+#html_short_title = Wiki
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
