@@ -6,6 +6,9 @@
 
 ![ProperJobGaming](https://raw.githubusercontent.com/ProperJobGaming/Wiki/master/docs/source/PJG.png)](http://properjobgaming.com)
 
+![ProperJobGaming Logo](https://raw.githubusercontent.com/ProperJobGaming/Wiki/master/docs/source/PJG.png)
+Format: ![ProperJobGaming](http://properjobgaming.com)
+
 Welcome to the ProperJobGaming wiki!
 =================================================
 
