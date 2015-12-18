@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-![ProperJobGaming Logo](https://raw.githubusercontent.com/ProperJobGaming/Wiki/master/docs/source/PJG.png)
+![ProperJobGaming Logo] (https://raw.githubusercontent.com/ProperJobGaming/Wiki/master/docs/source/PJG.png)
 
 Welcome to the ProperJobGaming wiki!
 =================================================
