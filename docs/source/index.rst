@@ -3,6 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. image:: https://github.com/ProperJobGaming/Wiki/blob/master/docs/source/PJG.png
+        :target: https://properjobgaming.com
+
 Welcome to the ProperJobGaming wiki!
 =================================================
 
