@@ -4,9 +4,7 @@
    contain the root `toctree` directive.
 
 
-<a href="http://properjobgaming.com">
-<img border="0" alt="ProperJobGaming" src="PJG.png">
-</a>
+[![ProperJobGaming](https://github.com/ProperJobGaming/Wiki/blob/master/docs/source/PJG.png)](http://properjobgaming.com)
 
 Welcome to the ProperJobGaming wiki!
 =================================================
